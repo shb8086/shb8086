@@ -5,7 +5,9 @@
 [<img align="left" alt="linkedin_shb8086 | LinkedIn" width="30px" src="https://img.icons8.com/ios-filled/50/linkedin.png" />][linkedin]
 [<img align="left" alt="medium_shb8086 | Twitter" width="30px" src="https://img.icons8.com/ios-filled/50/medium-monogram--v1.png" />][medium]
 [<img align="left" alt="spotify_shb8086 | Twitter" width="30px" src="https://img.icons8.com/ios-filled/50/spotify.png" />][spotify]
-[<img align="left" alt="spotify_shb8086 | Twitter" width="30px" src="https://img.icons8.com/ios-filled/50/google-scholar--v2.png" />][googlescholar]
+[<img align="left" alt="scholar_shb8086 | Twitter" width="30px" src="https://img.icons8.com/ios-filled/50/google-scholar--v2.png" />][googlescholar]
+[<img align="left" alt="email_shb8086 | Twitter" width="30px" src="https://img.icons8.com/ios-filled/50/circled-envelope.png" />][email]
+
 
 <br>
 
@@ -13,6 +15,7 @@
 [medium]: https://medium.com/@shb8086
 [spotify]: https://open.spotify.com/user/gdm4uayr0jugcd3vx5g59j8ny
 [googlescholar]: https://scholar.google.com/citations?user=lBBEqXoAAAAJ&hl=en
+[email]: mailto:baniadam.shima@gmail.com
 
 ## Interests
 
@@ -40,7 +43,6 @@
 - **OpenCV**
 - **TensorFlow**
 - **Keras**
-- **Linux** (Debian)
 - **Shell Scripting** (Bash)
 - **SQL**
 - **ONNX**
@@ -50,6 +52,8 @@
 - **MPI**
 - **SLURM**
 - **OpenMP**
+- **ParaView**
+- **TotalView**
 - **CUDA** (Newbie)
 
 ## Development and Version Control
@@ -95,6 +99,9 @@
 - **Microsoft Office Suite**
 - **Trello**
 - **Slack**
+- **Valgrind**
+- **GDB**
+- **Linux**
 
 ## Languages
 
@@ -104,7 +111,6 @@
 - 🇮🇷 **Persian**: C2
 - 🇳🇴 **Norwegian**: A1
 - 🇪🇸 **Spanish**: A0 <small>(upcoming)</small>
-
 
 ## Hobbies
 * 🧳 **Traveling**
