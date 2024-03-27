@@ -62,11 +62,11 @@
 
 ## Computer Architecture and ISA
 
-- AArch64
-- RISC-V
-- x86_64
-- PowerPC
-- MIPS
+- **AArch64**
+- **x86_64**
+- **PowerPC**
+- **MIPS**
+- **RISC-V**
 
 ## Compiler Infrastructure
 
@@ -104,19 +104,19 @@
 
 
 ### Hobbies:
-* 🧳 Traveling
-* 👩🏻‍💻 Coding
-* 🐈 Visiting Animal Shelter
-* 📚 Reading books
-* 🎥 Watching movies
-* 💪🏻 Gym
-* 🪴 Gardening
-* 📸 Photography
-* ✍🏻 Writing
-* 💬 Learning new languages
-* 🗿 Psychology
-* 🩺 Veterinary Medicine
-* 🎨 Graphic Design
+* 🧳 **Traveling**
+* 👩🏻‍💻 **Coding**
+* 🐈 **Visiting Animal Shelter**
+* 📚 **Reading books**
+* 🎥 **Watching movies**
+* 💪🏻 **Gym**
+* 🪴 **Gardening**
+* 📸 **Photography**
+* ✍🏻 **Writing**
+* 💬 **Learning new languages**
+* 🗿 **Psychology**
+* 🩺 **Veterinary Medicine**
+* 🎨 **Graphic Design**
 
 
 <!-- # Support Me
