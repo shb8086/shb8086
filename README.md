@@ -74,7 +74,7 @@
 - **TVM**
 - **MLIR**
 
-### Graphic Design Tools
+## Graphic Design Tools
 
 - **Adobe Illustrator**
 - **Adobe Photoshop**
@@ -84,7 +84,7 @@
 - **CorelDRAW**
 
 
-### Writing Tools and IDEs
+## Writing Tools and IDEs
 
 - **Visual Studio Code**
 - **Notion**
@@ -103,7 +103,7 @@
 - 🇪🇸 **Spanish**: A0 <small>(upcoming)</small>
 
 
-### Hobbies:
+## Hobbies
 * 🧳 **Traveling**
 * 👩🏻‍💻 **Coding**
 * 🐈 **Visiting Animal Shelter**
