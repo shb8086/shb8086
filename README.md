@@ -45,11 +45,18 @@
 - **SQL**
 - **ONNX**
 
+## Parallel and High-Performance Computing
+
+- **MPI**
+- **SLURM**
+- **OpenMP**
+- **CUDA** (Newbie)
+
 ## Development and Version Control
 
-- **Git** (GitHub actions)
+- **Git**
 - **Docker**
-- **kubernetes**
+- **Kubernetes**
 - **Continuous Integration/Continuous Deployment (CI/CD)**
 - **Agile Development** (Scrum, Kanban)
 
@@ -99,7 +106,7 @@
 ### Hobbies:
 * 🧳 Traveling
 * 👩🏻‍💻 Coding
-* 🐈 Visiting Animal shelter
+* 🐈 Visiting Animal Shelter
 * 📚 Reading books
 * 🎥 Watching movies
 * 💪🏻 Gym
