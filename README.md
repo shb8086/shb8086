@@ -84,7 +84,7 @@
 - **CorelDRAW**
 
 
-## Writing Tools and IDEs
+## Other Tools
 
 - **Visual Studio Code**
 - **Notion**
@@ -92,6 +92,9 @@
 - **Sphinx**
 - **Markdown**
 - **LaTeX**
+- **Microsoft Office Suite**
+- **Trello**
+- **Slack**
 
 ## Languages
 
