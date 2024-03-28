@@ -59,6 +59,7 @@
 ## Development and Version Control
 
 - **Git**
+- **Jenkins**
 - **Docker**
 - **Kubernetes**
 - **Continuous Integration/Continuous Deployment (CI/CD)**
