@@ -13,7 +13,6 @@
 
 [linkedin]: https://www.linkedin.com/in/shb8086
 [medium]: https://medium.com/@shb8086
-[spotify]: https://open.spotify.com/user/gdm4uayr0jugcd3vx5g59j8ny
 [googlescholar]: https://scholar.google.com/citations?user=lBBEqXoAAAAJ&hl=en
 [email]: mailto:baniadam.shima@gmail.com
 
@@ -63,7 +62,6 @@
 - **Docker**
 - **Kubernetes**
 - **Continuous Integration/Continuous Deployment (CI/CD)**
-- **Agile Development** (Scrum, Kanban)
 
 ## Computer Architecture and ISA
 
@@ -87,31 +85,45 @@
 - **Adobe InDesign**
 - **Adobe Premiere Pro**
 - **CorelDRAW**
+- **Inkscape**
 
+## Soft Skills
+
+- **Agile Development** (Scrum, Kanban)
+- **Teamwork**
+- **Leadership**
+- **Problem Solving**
+- **Time Management**
+- **Communication**
+- **Negotiation**
+- **Decision Making**
+- **Adaptability**
+- **Creativity**
 
 ## Other Tools
 
 - **Visual Studio Code**
+- **Valgrind**
+- **GDB**
+- **Linux**
 - **Notion**
 - **Jekyll**
 - **Sphinx**
 - **Markdown**
 - **LaTeX**
+- **Typset**
 - **Microsoft Office Suite**
 - **Trello**
 - **Slack**
-- **Valgrind**
-- **GDB**
-- **Linux**
 
 ## Languages
 
-- 🇬🇧 **English**: C1 <small>(developing)</small>
-- 🇩🇪 **German**: B1 <small>(TELC, developing)</small>
+- 🇬🇧 **English**: C1 
+- 🇩🇪 **German**: B1 <small>(TELC Certificate)</small>
 - 🇹🇷 **Turkish**: B2
-- 🇮🇷 **Persian**: C2
-- 🇳🇴 **Norwegian**: A1
-- 🇪🇸 **Spanish**: A0 <small>(upcoming)</small>
+- 🇮🇷 **Persian**: C2 
+- 🇳🇴 **Norwegian**: A1 
+- 🇪🇸 **Spanish**: A1 
 
 ## Hobbies
 * 🧳 **Traveling**
@@ -127,7 +139,6 @@
 * 🗿 **Psychology**
 * 🩺 **Veterinary Medicine**
 * 🎨 **Graphic Design**
-
 
 <!-- # Support Me
   [![BuyMeACoffee]()](https://www.buymeacoffee.com/) -->
