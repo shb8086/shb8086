@@ -4,7 +4,6 @@
 
 [<img align="left" alt="linkedin_shb8086 | LinkedIn" width="30px" src="https://img.icons8.com/ios-filled/50/linkedin.png" />][linkedin]
 [<img align="left" alt="medium_shb8086 | Twitter" width="30px" src="https://img.icons8.com/ios-filled/50/medium-monogram--v1.png" />][medium]
-[<img align="left" alt="spotify_shb8086 | Twitter" width="30px" src="https://img.icons8.com/ios-filled/50/spotify.png" />][spotify]
 [<img align="left" alt="scholar_shb8086 | Twitter" width="30px" src="https://img.icons8.com/ios-filled/50/google-scholar--v2.png" />][googlescholar]
 [<img align="left" alt="email_shb8086 | Twitter" width="30px" src="https://img.icons8.com/ios-filled/50/circled-envelope.png" />][email]
 
