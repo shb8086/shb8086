@@ -18,6 +18,7 @@
 ## Interests
 
 - **Machine Learning**
+- **Data Science**
 - **Deep Learning**
 - **High-Performance Computing**
 - **Compiler Design**
@@ -29,7 +30,6 @@
 - **C/C++**
 - **Python**
 - **Assembly**
-- **ATen**
 - **PyTorch**
 - **NumPy**
 - **Pandas**
@@ -48,18 +48,15 @@
 ## Parallel and High-Performance Computing
 
 - **MPI**
-- **SLURM**
 - **OpenMP**
+- **SLURM**
 - **ParaView**
 - **TotalView**
-- **CUDA** (Newbie)
-
+  
 ## Development and Version Control
 
 - **Git**
-- **Jenkins**
 - **Docker**
-- **Kubernetes**
 - **Continuous Integration/Continuous Deployment (CI/CD)**
 
 ## Computer Architecture and ISA
@@ -69,12 +66,6 @@
 - **PowerPC**
 - **MIPS**
 - **RISC-V**
-
-## Compiler Infrastructure
-
-- **LLVM**
-- **TVM**
-- **MLIR**
 
 ## Graphic Design Tools
 
@@ -127,7 +118,7 @@
 ## Hobbies
 * 🧳 **Traveling**
 * 👩🏻‍💻 **Coding**
-* 🐈 **Visiting Animal Shelter**
+* 🐈 ** Animal**
 * 📚 **Reading books**
 * 🎥 **Watching movies**
 * 💪🏻 **Gym**
@@ -138,6 +129,13 @@
 * 🗿 **Psychology**
 * 🩺 **Veterinary Medicine**
 * 🎨 **Graphic Design**
+
+  # What next
+  - AWS
+  - Data Engineering
+  - Rust
+  - Kubernets
+  - Jenkins
 
 <!-- # Support Me
   [![BuyMeACoffee]()](https://www.buymeacoffee.com/) -->
