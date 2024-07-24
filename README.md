@@ -14,6 +14,13 @@
 [medium]: https://medium.com/@shb8086
 [googlescholar]: https://scholar.google.com/citations?user=lBBEqXoAAAAJ&hl=en
 [email]: mailto:baniadam.shima@gmail.com
+## Data
+- DBT
+- Airflow
+- Tableau
+- SQL
+- Postgres
+- 
 
 ## Interests
 
