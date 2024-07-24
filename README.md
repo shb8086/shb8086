@@ -125,7 +125,7 @@
 ## Hobbies
 * 🧳 **Traveling**
 * 👩🏻‍💻 **Coding**
-* 🐈 ** Animal**
+* 🐈 **Animal**
 * 📚 **Reading books**
 * 🎥 **Watching movies**
 * 💪🏻 **Gym**
@@ -136,13 +136,6 @@
 * 🗿 **Psychology**
 * 🩺 **Veterinary Medicine**
 * 🎨 **Graphic Design**
-
-  # What next
-  - AWS
-  - Data Engineering
-  - Rust
-  - Kubernets
-  - Jenkins
 
 <!-- # Support Me
   [![BuyMeACoffee]()](https://www.buymeacoffee.com/) -->
