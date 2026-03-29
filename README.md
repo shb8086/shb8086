@@ -11,12 +11,12 @@
 
 #### Who Am I?
 
-- I transform data with **dbt**, **SQL**, **Python**, **Scala** and **Spark**
+- I transform data with **DBT**, **SQL**, **Python**, **Scala** and **Spark**
 - I live in the clouds: **AWS**, **Databricks**, **Snowflake**
 - I orchestrate workflows with **Airflow** and **Prefect**
 - I design data models that scale in **Kimball**, **Data Vault**, **medallion**
 - I write tests because data quality matters
-- I monitor everything with **Grafana** and **Elementary**
+- I monitor everything with **Grafana**, **Elementary**, **Anomalo**
 - I experiment with **DuckDB** & **ClickHouse** for fast analytics
 - I translate business needs into data solutions
 - I debug performance issues and make queries fly
